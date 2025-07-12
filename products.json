@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Պելմենի",
+      "price": 2500,
+      "image": "img/pelmeni.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Խինկալի",
+      "price": 3000,
+      "image": "img/khinkali.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ձոնդոկլի",
+      "price": 2800,
+      "image": "img/zondukl.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Լուլա կեբաբ",
+      "price": 3200,
+      "image": "img/lula.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Մանթի",
+      "price": 2700,
+      "image": "img/manti.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Վարենիկի կարտոֆիլով",
+      "price": 2600,
+      "image": "img/vareniki.jpg"
+    }
+  ]
+  
+
+
+
+
+
